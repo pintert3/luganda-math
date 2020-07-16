@@ -1,0 +1,45 @@
+basic:
+  arithmetic = 
+  algebra = 
+  calculate = 
+  estimate =
+  geometry =  
+  infinity =
+  law = 
+  mathematics = 
+  negative =
+  positive =
+  theory =  
+  topic =
+
+topics:
+  algebra:
+    addend =
+    dividend =
+    divisor =
+    quotient =
+    subtrahend =
+    term =
+    variable =
+
+  arithmetic:
+    add = 
+    divide =
+    multiply =
+    subtract =
+    mod =
+
+  geometry:
+    circle = 
+    cube =
+    cuboid =
+    cylinder =
+    elipse =
+    line =
+    oval =
+    rectangle =
+    sphere =
+    square =
+    triangle =
+
+
