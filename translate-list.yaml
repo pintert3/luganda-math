@@ -25,9 +25,9 @@ topics:
   arithmetic:
     add = 
     divide =
+    mod =
     multiply =
     subtract =
-    mod =
 
   geometry:
     circle = 
